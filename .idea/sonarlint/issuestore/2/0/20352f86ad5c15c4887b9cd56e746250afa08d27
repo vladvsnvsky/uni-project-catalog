@@ -1,0 +1,20 @@
+
+]	java:S125%"<This block of commented-out lines of code should be removed.(¹Î«Çùÿÿÿÿ8£ç‰âÒ1
+}
+java:S1989/"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(×©‰#8ªç‰âÒ1
+u
+java:S19892"SHandle the following exception that could be thrown by "sendRedirect": IOException.(íãùÈıÿÿÿÿ8­ç‰âÒ1
+d
+java:S1128"BRemove this unused import 'com.example.temadoi.models.Disciplina'.(Å˜ñüÿÿÿÿ8Šä‹âÒ1
+X
+java:S1128"<Remove this unused import 'com.example.temadoi.models.Nota'.(çÉ®Q8Šä‹âÒ1
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(şÃ‘•ûÿÿÿÿ8°ç‰âÒ1
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¹ê›¨8³ç‰âÒ1
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÏàùÄ8µç‰âÒ1
+H
+java:S1068"+Remove this unused "notaDAO" private field.(¹ê›¨8¸ç‰âÒ1
+N
+java:S1068"1Remove this unused "disciplinaDAO" private field.(ÏàùÄ8†Ã‹âÒ1

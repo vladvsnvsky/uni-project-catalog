@@ -1,0 +1,21 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "notaId" 3 times.(®внчьяяяя8ІЏўаТ1
+{
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(®внчьяяяя8РЊЈаТ1
+~
+java:S1989$"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(нё§‡8СЊЈаТ1
+m
+java:S1989&"PHandle the following exception that could be thrown by "sendError": IOException.(а†Ќ8ТЊЈаТ1
+u
+java:S1989)"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ЦНрЃэяяяя8ТЊЈаТ1
+p
+java:S1989?"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ш»Ўв8ХЊЈаТ1
+m
+java:S1989A"PHandle the following exception that could be thrown by "sendError": IOException.(а†Ќ8ХЊЈаТ1
+u
+java:S1989E"SHandle the following exception that could be thrown by "sendRedirect": IOException.(№‘јЮюяяяя8ЦЊЈаТ1
+u
+java:S1989H"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ЦНрЃэяяяя8ЦЊЈаТ1
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(№к›Ё8ЦЊЈаТ1

@@ -1,0 +1,13 @@
+
+l
+java:S1192%"JDefine a constant instead of duplicating this literal "studentId" 3 times.(όΣλÿÿÿÿÿ8χλνέÒ1
+v
+java:S1989("YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ª¶Ϊ±8‹μνέÒ1
+ƒ
+java:S1989/"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ύ°¤ÿÿÿÿÿ8μνέÒ1
+p
+java:S1989M"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ρξ¶8μνέÒ1
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ήκ›¨8‘μνέÒ1
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Όο€Μώÿÿÿÿ8‘μνέÒ1

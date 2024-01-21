@@ -1,0 +1,23 @@
+
+j
+java:S1192("HDefine a constant instead of duplicating this literal "student" 3 times.(ıçü”øÿÿÿÿ8ì°œÅÒ1
+e
+java:S1192)"IDefine a constant instead of duplicating this literal "userType" 3 times.(¾Ï¾x8Æ…€ÅÒ1
+_
+java:S2441("=Make "Student" serializable or don't store it in the session.(ıçü”øÿÿÿÿ8ï…€ÅÒ1
+Z
+java:S2441+">Make "Profesor" serializable or don't store it in the session.(Ğ÷ÍP8ğ…€ÅÒ1
+}
+java:S39230"[Remove this conditional structure or edit its code blocks so that they're not all the same.(úõĞ¨úÿÿÿÿ8¨ş¶ÅÒ1
+u
+java:S19891"SHandle the following exception that could be thrown by "sendRedirect": IOException.(£ÕÒàÿÿÿÿÿ8¦Ä“ÅÒ1
+p
+java:S19893"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Ğ¯ì³8ë¤•ÅÒ1
+ƒ
+java:S19898"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(À×üÿÿÿÿ8ö…€ÅÒ1
+ƒ
+java:S1989?"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(À×üÿÿÿÿ8÷…€ÅÒ1
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(şÃ‘•ûÿÿÿÿ8÷…€ÅÒ1
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Öÿõ×8÷…€ÅÒ1
